@@ -1,7 +1,7 @@
 // RouteInfo.jsx
 import  { useState, useEffect } from 'react';
-import { stops } from '../data/data'; // Importing stops data from a separate file
-import { calculateDistance, calculateETA } from '../utils/utils'; // Importing utility functions
+import { stops } from '../data/data'; 
+import { calculateDistance, calculateETA } from '../utils/utils'; 
 
 const RouteInfo = () => {
     const [driverLocationIndex, setDriverLocationIndex] = useState(0);

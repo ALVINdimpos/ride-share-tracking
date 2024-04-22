@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import { calculateETA } from '../utils/utils'; // Update the path accordingly
+import { calculateETA } from '../utils/utils'; 
 
 const ETANextStop = ({ stops, driverLocationIndex }) => {
     return (

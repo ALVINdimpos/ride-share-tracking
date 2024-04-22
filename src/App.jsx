@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { GoogleMap, Marker, Polyline, useJsApiLoader } from '@react-google-maps/api';
 import RouteInformation from './container/RouteInformation';
 import ETANextStop from './container/ETANextStop';
-import { stops } from './data/data'; // Importing stops data from a separate file
+import { stops } from './data/data'; 
 
 const containerStyle = {
   width: '100%',
@@ -57,7 +57,7 @@ const App = () => {
               <Marker
                 key={index}
                 position={stop}
-                label={{ text: stop.name, color: 'white', fontWeight: 'bold' }} // Set label color and style here
+                label={{ text: stop.name, color: 'white', fontWeight: 'bold' }} 
               />
             ))}
             {driverLocation && (
