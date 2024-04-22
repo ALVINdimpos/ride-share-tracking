@@ -5,7 +5,7 @@ This project is a real-time ride-share tracking application developed using Reac
 ## Screenshots
 ![Screenshot 1](https://i.imgur.com/y2eRhjd.png)
 
-![Screenshot 2](blob:https://imgur.com/cbc79e1c-e612-4c19-b6eb-a2c276db3ce8)
+![Screenshot 2](https://i.imgur.com/hPn24ro.png)
 
 
 ## Setup Instructions
