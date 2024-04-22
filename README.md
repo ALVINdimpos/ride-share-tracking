@@ -24,7 +24,6 @@ This project is a real-time ride-share tracking application developed using Reac
 - The application uses React.js for front-end development and the Google Maps API for mapping functionalities.
 - The driver's location is updated every 10 seconds to simulate real-time movement.
 - The ETA calculation assumes a constant average speed for simplicity.
-- Styling and additional features can be added for further enhancement.
 
 ## Credits
 - Developed by [Niyigena Fiston Alvin](https://www.alvincoder.com/)
