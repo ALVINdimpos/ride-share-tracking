@@ -2,6 +2,12 @@
 
 This project is a real-time ride-share tracking application developed using React.js and the Google Maps API.
 
+## Screenshots
+![Screenshot 1](https://i.imgur.com/y2eRhjd.png)
+
+![Screenshot 2](blob:https://imgur.com/cbc79e1c-e612-4c19-b6eb-a2c276db3ce8)
+
+
 ## Setup Instructions
 1. Clone this repository to your local machine.
 2. Navigate to the project directory using a terminal or command prompt.
@@ -21,5 +27,5 @@ This project is a real-time ride-share tracking application developed using Reac
 - Styling and additional features can be added for further enhancement.
 
 ## Credits
-- Developed by [ Niyigena Fiston Alvin ]
+- Developed by [Niyigena Fiston Alvin](https://www.alvincoder.com/)
 - MIT License
