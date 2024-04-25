@@ -11,7 +11,7 @@ This project is a real-time ride-share tracking application developed using Reac
 ## Setup Instructions
 1. Clone this repository to your local machine.
 2. Navigate to the project directory using a terminal or command prompt.
-3. Install dependencies using the command `npm install`.
+3. Install dependencies using the command `npm install --legacy-peer-deps`.
 4. Start the development server with `npm run dev`.
 5. Open your browser and visit http://localhost:3000 to view the application.
 
